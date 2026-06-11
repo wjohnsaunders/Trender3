@@ -85,3 +85,22 @@ plate would be difficult. So I recommend staying with an available size.
 I will likely go with an "FT EMS" panel approach to allow flexible placement
 of different brands of components. I had a good experience with that on a
 Duender, and it is used on Vorons in place of the DIN rails.
+
+## Final thoughts
+
+The feet STLs may not fit (or not fit well) due to the different extrusion
+sizes, and will need to be re-designed. Also the skirts will need to be
+re-designed for the smaller size.
+
+There should be an additional 20mm of height in the electronics bay due to
+the use of 4040 extrusion.
+
+The toolhead choice is left up to the builder to decide. There are a number
+of good choices available for the smaller printers. Just don't make a
+StealthBurner.
+
+I would recommend an umbilical with a CAN toolhead PCB, to avoid cramming
+the cable chains into something so small.
+
+Should also be able to adapt a Trident top-hat to provide extra clearance
+for the umbnilical and bowden tube under the top panel.
