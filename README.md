@@ -45,6 +45,12 @@ Refer to the following diagram that shows how the extrusions fit together.
 
 ![image](images/frame.jpg)
 
+The 4040 and 2040 Ender3 extrusions are used as-is. However the 4 x 2020
+extrusions need to be cut. Cut 1 down to 290mm, and 2 down to 250mm. The last
+one should be cut into a 152mm length and a 160mm length. You will need 2
+additional 290mm lengths of 2020 for the Y axis, which needs to be sourced
+separately.
+
 The frame should be constructed using the blind joint method. Take care to
 ensure that the frame is square before a final tighten of the bolts.
 
