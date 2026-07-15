@@ -92,23 +92,26 @@ of the standard Voron Trident parts.
 
 ### Ender3 Bed
 The most cost effective approach is to re-use an Ender3 bed. You will not be
-able to use all of the bed, however it is still functional.
+able to use all of the bed, however it is still functional for 170x170 prints.
 
 The Ender3 bed should just fit between the front leadscews (tested with R1 Z
 axis parts). You will need to replace the large wheel nuts with smaller thumb
 (knurled) nuts from the Trident BOM (or just M4 nuts in a pinch).
 
 You will need to drill 2x4mm holes in the X shaped plate that the bed attaches to.
-These need to be perfectly along the centerline so that when the bed is mounted
-to the extrusions it will be centered. The centerline can be found 17.5mm inward
-from the edge of the smaller hole, or 16.4mm inward from the edge of the larger
-hole. Drill the holes 15mm in from the edges that have the slot for the belt.
+A special tool has been provided to provide a precise drilling location. Drill the
+first hole with a 4mm drill in the position as shown in the following picture.
 
-![image](images/bed.jpg)
+![image](images/bed_drill_1.jpg)
+
+Drill the second hole with a 4mm drill in the position as shown in the following
+picture.
+
+![image](images/bed_drill_2.jpg)
 
 Use M4 bolts and T-nuts from the Ender3 parts box to mount to the extrusion that
-runs front to back. You can adjust the position of the bed to your liking, just
-make sure that it doesn't hit anything.
+runs front to back. You can adjust the position of the bed to your preference,
+just make sure that it doesn't hit anything when the Z axis moves.
 
 ### MIC-6 Bed
 
